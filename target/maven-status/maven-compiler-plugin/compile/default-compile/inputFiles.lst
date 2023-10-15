@@ -1,0 +1,13 @@
+/home/wazir/repo/maven_project/src/main/java/tic/tac/toe/GameMaster.java
+/home/wazir/repo/maven_project/src/main/java/players/HumanPlayer.java
+/home/wazir/repo/maven_project/src/main/java/tic/tac/toe/TicTacToe.java
+/home/wazir/repo/maven_project/src/main/java/players/AIPlayer.java
+/home/wazir/repo/maven_project/src/main/java/players/Player.java
+/home/wazir/repo/maven_project/src/main/java/players/PLAYERTYPE.java
+/home/wazir/repo/maven_project/src/main/java/exceptions/InvalidConfigurationException.java
+/home/wazir/repo/maven_project/src/main/java/exceptions/InvalidInputException.java
+/home/wazir/repo/maven_project/src/main/java/exceptions/NotAvailableMoveException.java
+/home/wazir/repo/maven_project/src/main/java/exceptions/GameException.java
+/home/wazir/repo/maven_project/src/main/java/move/Move.java
+/home/wazir/repo/maven_project/src/main/java/constants/Constants.java
+/home/wazir/repo/maven_project/src/main/java/tic/tac/toe/Board.java

@@ -1,0 +1,5 @@
+test/tic/tac/toe/PlayerTest.class
+test/tic/tac/toe/GameMasterTest.class
+test/tic/tac/toe/BoardTest.class
+test/tic/tac/toe/TicTacToeTest.class
+test/tic/tac/toe/BaseTest.class
